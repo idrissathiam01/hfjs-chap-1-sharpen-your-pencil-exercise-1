@@ -11,7 +11,7 @@ if (total > 25) {
 	//If the 'total' is above 25, run the function 'freeShipping'
 
 var count = 10; //set the variable 'count' to equal 10.
-while (count > 0) {  //initiate whiel loop, while the variable count is greater than 0.
+while (count > 0) {  //initiate while loop, while the variable count is greater than 0.
 	juggle(); // Run the function 'juggle'
 	count = count - 1; // Update the variable 'count' to substract 1.  Run loop again.
 }
